@@ -423,7 +423,6 @@
 /ssl/keyless-ssl/high-availability/ /ssl/keyless-ssl/reference/high-availability/ 301
 /ssl/keyless-ssl/keyless-delegation/ /ssl/keyless-ssl/reference/keyless-delegation/ 301
 /ssl/keyless-ssl/scaling-and-benchmarking/ /ssl/keyless-ssl/reference/scaling-and-benchmarking/ 301
-/ssl/ssl-for-saas/certificate-signing-requests/ /ssl/ssl-for-saas/custom-certificates/certificate-signing-requests/ 301
 /ssl/ssl-for-saas/certificate-validation-methods/ /ssl/ssl-for-saas/common-tasks/certificate-validation-methods/ 301
 /ssl/ssl-for-saas/common-api-calls/ /ssl/ssl-for-saas/reference/common-api-calls/ 301
 /ssl/ssl-for-saas/hostname-verification/ /ssl/ssl-for-saas/common-tasks/hostname-verification/ 301
@@ -555,7 +554,7 @@
 
 # workers
 /workers/about/ /workers/learning/ 301
-/workers/tooling/ /workers/cli-wrangler/ 301
+/workers/tooling/ /workers/wrangler/ 301
 /workers/about/how-it-works/ /workers/learning/how-workers-works/ 301
 /workers/about/how-workers-work/ /workers/about/how-it-works/ 301
 /workers/about/limits/ /workers/platform/limits/ 301
@@ -777,7 +776,7 @@
 /workers/templates/snippets/send_raw_html/ /workers/templates/pages/send_raw_html/ 301
 /workers/templates/snippets/signed_request/ /workers/templates/pages/signed_request/ 301
 /workers/test-redirect/ /workers/templates/ 301
-/workers/tooling/ /workers/cli-wrangler/ 301
+/workers/tooling/ /workers/wrangler/ 301
 /workers/tooling/api/ https://api.cloudflare.com/#worker-script-properties 301
 /workers/tooling/api/bindings/ /workers/platform/scripts/#resource-bindings 301
 /workers/tooling/api/requests/ https://api.cloudflare.com/#getting-started-requests 301
@@ -787,16 +786,16 @@
 /workers/tooling/playground/ /workers/learning/playground/ 301
 /workers/tooling/serverless/ /workers/learning/integrations/ 301
 /workers/tooling/terraform/ /workers/learning/integrations/ 301
-/workers/tooling/wrangler/ /workers/cli-wrangler/ 301
-/workers/tooling/wrangler/commands/ /workers/cli-wrangler/commands/ 301
-/workers/tooling/wrangler/configuration/ /workers/cli-wrangler/configuration/ 301
+/workers/tooling/wrangler/ /workers/wrangler/ 301
+/workers/tooling/wrangler/commands/ /workers/wrangler/commands/ 301
+/workers/tooling/wrangler/configuration/ /workers/wrangler/configuration/ 301
 /workers/tooling/wrangler/configuration/environments/ /workers/tooling/wrangler/environments/ 301
 /workers/tooling/wrangler/environments/ /workers/platform/environments/ 301
-/workers/tooling/wrangler/install/ /workers/cli-wrangler/install-update/ 301
-/workers/tooling/wrangler/kv_commands/ /workers/cli-wrangler/commands/ 301
-/workers/tooling/wrangler/secrets/ /workers/cli-wrangler/commands/ 301
+/workers/tooling/wrangler/install/ /workers/wrangler/install-update/ 301
+/workers/tooling/wrangler/kv_commands/ /workers/wrangler/commands/ 301
+/workers/tooling/wrangler/secrets/ /workers/wrangler/commands/ 301
 /workers/tooling/wrangler/sites/ /workerssites/config/ 301
-/workers/tooling/wrangler/webpack/ /workers/cli-wrangler/webpack/ 301
+/workers/tooling/wrangler/webpack/ /workers/wrangler/webpack/ 301
 /workers/tutorials/authorize-users-with-auth0/ /workers/ 301
 /workers/tutorials/build-an-application/ /workers/tutorials/build-a-slackbot/ 301
 /workers/tutorials/build-a-rustwasm-function/ /workers/templates/pages/rustwasm/ 301
